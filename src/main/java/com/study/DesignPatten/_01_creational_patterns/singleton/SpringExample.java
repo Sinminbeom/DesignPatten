@@ -1,4 +1,4 @@
-package com.study.DesignPatten.singleton;
+package com.study.DesignPatten._01_creational_patterns.singleton;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

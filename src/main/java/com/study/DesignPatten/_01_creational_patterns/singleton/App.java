@@ -1,8 +1,6 @@
-package com.study.DesignPatten.singleton;
+package com.study.DesignPatten._01_creational_patterns.singleton;
 
 import java.io.*;
-import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
 
 public class App {
     public static void main(String[] args) throws IOException, ClassNotFoundException {

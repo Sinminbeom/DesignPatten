@@ -1,4 +1,4 @@
-package com.study.DesignPatten.singleton;
+package com.study.DesignPatten._01_creational_patterns.singleton;
 
 public class RuntimeExample {
     public static void main(String[] args) {
